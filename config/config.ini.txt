@@ -1,0 +1,6 @@
+[FILES]
+encompass_csv = path_to_encompass_csv
+samsara_csv = path_to_samsara_csv
+
+[API]
+samsara_endpoint = https://api.samsara.com/fleet/drivers
